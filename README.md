@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ignews 💛🚀
 
 &nbsp;
 
 ![mock1](https://user-images.githubusercontent.com/71772559/113495090-3e529600-94c5-11eb-953c-53ab4f71fc15.png)
+=======
+# Ignews🚀
+>>>>>>> 9ac8fed83c2cbf8febf4c6875cac0c31e19e5357
 =======
 # Ignews🚀
 >>>>>>> 9ac8fed83c2cbf8febf4c6875cac0c31e19e5357
@@ -15,11 +19,17 @@
 &nbsp;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9ac8fed83c2cbf8febf4c6875cac0c31e19e5357
 ![mock1](https://user-images.githubusercontent.com/71772559/113495090-3e529600-94c5-11eb-953c-53ab4f71fc15.png)
 
 &nbsp;
 
+<<<<<<< HEAD
+>>>>>>> 9ac8fed83c2cbf8febf4c6875cac0c31e19e5357
+=======
 >>>>>>> 9ac8fed83c2cbf8febf4c6875cac0c31e19e5357
 ## 💻 O que tem no projeto?
 
@@ -76,6 +86,10 @@ $ yarn start
 <p align="center">Feito por Carlos Santos</p>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9ac8fed83c2cbf8febf4c6875cac0c31e19e5357
 =======
 
 >>>>>>> 9ac8fed83c2cbf8febf4c6875cac0c31e19e5357
